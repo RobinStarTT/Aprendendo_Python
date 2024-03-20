@@ -27,7 +27,7 @@ lista = [
     {'nome': 'Aline', 'sobrenome': 'Souza'},
 ] 
 
-
+print('teste')
 
 
 
